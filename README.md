@@ -1,2 +1,3 @@
 # hello-world
-Learning repository
+
+This Readme is updated and fully understandable. :sparkles:
